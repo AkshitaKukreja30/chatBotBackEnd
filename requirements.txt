@@ -1,0 +1,6 @@
+Flask==1.1.2
+numpy==1.19.1
+Flask_API==2.0
+Flask_Cors==3.0.9
+nltk==3.5
+scikit_learn==0.23.2

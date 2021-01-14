@@ -1,0 +1,12 @@
+nMy name is CygBot,an in-house FAQ bot who can answer your basic queries.
+Cyber Group is a 20+ year old company committed to serve our clients keeping their best interests in mind.
+With offices in Dallas, Houston and India, employing over 235 people worldwide, we have the global resources to take on even the most complex projects.
+The three core values we focus on are : Excellence, Integrity, & Value for the community around us.
+Our culture is about giving back to our local community and creating value for our clients and colleagues.Cyber Group makes a concerted effort to work, play, and live in the same community.
+Cyber Group strives to always deliver on the promise of quality software development, at a reasonable cost in a timely manner.
+Our company provides 16 hours of service to our clients,8 hours from employees in India and 8 hours from employees in US.We provide the following services : Customer Experience and CRM, Application Development and Integration, Production Support and QA, Data Analytics and AI.We offer Salesforce solutions tailored to each client’s needs instead of providing standard, run-of-the-mill solutions.
+We can design, build, test, and deploy almost any kind of app for any type of business.We work closely with each client to determine what their goals are and what their budget is.
+You can contact us at the Tele-phone number: 469.916.7730.You can also contact us via Email at info@cygrp.com.
+Our Dallas address is Cyber Group Inc, North Dallas Bank Building Tower, 12900 Preston Road, Ste 900, Dallas, TX, 75230.Our India address is Cyber Group India Pvt LTD, 30/1 Knowledge Park III, Greater Noida.
+We have around 200 employees.
+This Bot has been created by Akshita Kukreja.
